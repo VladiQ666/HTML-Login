@@ -1,0 +1,124 @@
+body {
+    background-image: url(https://catherineasquithgallery.com/uploads/posts/2021-02/1612179378_15-p-fioletovii-fon-estetika-nezhnii-16.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+div.baza {
+
+    margin-top: 250px;
+    padding-left: 100px;
+    width: 400px;
+    margin-left: 700px;
+    height: 550px;
+    box-shadow: 2px 2px 2px 2px 10px black;
+    border: 0.5px solid black;
+    box-shadow: 0px 5px 30px 0px rgba(0, 0, 0, 0.5);
+
+
+}
+
+
+
+.facebook {
+    max-width: 35px;
+    height: 35px;
+}
+
+.sign {
+    margin-left: 100px;
+    font-size: 40px;
+    color: white;
+
+}
+
+.nickname {
+    outline: none;
+    width: 350px;
+    margin-left: -30px;
+    height: 30px;
+    font-size: 20px;
+    outline: 0;
+    border-width: 0 0 1px;
+    border-color: blue;
+    background: transparent;
+    border-color: white;
+    color: white;
+}
+
+.pass {
+    width: 350px;
+    margin-left: -30px;
+    margin-top: 10px;
+    height: 30px;
+    outline: 0;
+    border-width: 0 0 1px;
+    border-color: blue;
+    background: transparent;
+    border-color: white;
+    color: white;
+    font-size: 20px;
+
+
+
+}
+
+.twitter {
+    max-width: 35px;
+    height: 35px;
+    margin-left: 20px;
+}
+
+.vk {
+    width: 37px;
+    height: 37px;
+    margin-left: 20px;
+}
+
+.reddit {
+    width: 305x;
+    height: 35px;
+    margin-left: 20px;
+    border-radius: 100px;
+
+}
+
+.sign-button {
+    margin-top: 15px;
+    width: 350px;
+    margin-left: -30px;
+    height: 50px;
+    font-size: 20px;
+    background-color: #f217b2;
+    outline: none;
+    border-color: #de24a5;
+    color: white;
+}
+
+.img-div {
+    margin-left: 40px;
+}
+
+.flex {
+    display:checkbox flex;
+
+}
+
+.forgot {
+    margin-left: 50px;
+    color: white;
+    text-decoration: none;
+}
+
+.me {
+    color: white;
+}
+
+.textr {
+    color: white;
+}

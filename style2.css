@@ -68,6 +68,12 @@ div.baza {
 
 }
 
+.nickname::placeholder, .pass::placeholder {
+    color: white;
+}
+
+
+
 .twitter {
     max-width: 35px;
     height: 35px;
@@ -105,7 +111,7 @@ div.baza {
 }
 
 .flex {
-    display:checkbox flex;
+    display: flex;
 
 }
 
